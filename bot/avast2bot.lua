@@ -244,14 +244,12 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {181803152,198090746},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/avastteam98/avast2-bot
-
-channel : @avast_team
-sodu : @arash_avast
+Fury BoT
+@furyb0t
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -517,7 +515,7 @@ avast2 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @avast_team
+channel: @furyb0t
 
 G00D LUCK ^_^
 ]]
